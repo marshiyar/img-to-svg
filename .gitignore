@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+venv/
+.venv/
+.env/
+
+# Packaging / build artifacts
+*.spec
+
+dist/
+*.egg-info/
+build.sh
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
