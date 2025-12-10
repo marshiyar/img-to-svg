@@ -7,6 +7,7 @@ Convert images (PNG, JPG, etc.) to SVG vectors.
 ```bash
 pip install .
 ```
+![use demo](guide/image.png)
 
 ## Requirements
 
