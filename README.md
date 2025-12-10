@@ -29,8 +29,6 @@ pip install .
 Output SVG is saved in the same directory.
 
 ## Options
-
-**efforts:**
 ```bash
 ./run.sh image.png --mode maximum 
 ./run.sh image.png --mode high

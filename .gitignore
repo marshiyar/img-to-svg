@@ -9,10 +9,12 @@ venv/
 
 # Packaging / build artifacts
 *.spec
-
-dist/
 *.egg-info/
 build.sh
+build/
+dist/*
+!dist/img-to-svg
+!dist/img-to-svg.zip
 
 # OS / editor
 .DS_Store
